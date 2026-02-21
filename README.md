@@ -1,3 +1,12 @@
+## 💼 Paid Support & Customization
+
+Need professional help with this Asterisk IVR?
+
+👉 **Paid setup, customization & support available**  
+👉 Crypto payments accepted (USDT / BTC)
+
+📣 [Click here to see details and contact](../../discussions)
+
 # Asterisk IVR with Call Reporting
 
 Production-ready IVR for Asterisk with SQL-based call reports.
